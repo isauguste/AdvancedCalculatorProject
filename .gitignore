@@ -1,4 +1,7 @@
 # Ignore runtime files
 calculator.log
-history.csv
+history.csv 
+__pycache__/
+*.pyc
+*.log
 
