@@ -1,4 +1,4 @@
-# Advanced Python Calculator Project
+# Advanced Python Calculator Project for Software Engineering
 
 ## Features 
 - **Basic Operations:** Add, Subtract, Multiply, Divide
