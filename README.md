@@ -9,5 +9,14 @@
   - `LOG_LEVEL`: DEBUG, INFO, WARNING, etc.
   - `HISTORY_FILE`: Target CSV file to store history
 - **Logging:** Logs saved to `calculator.log`
+- unit tests with `pytest` 
+
+## Setup 
+```bash
+git clone <your-repo-url>
+cd AdvancedCalculatorProject
+python -m venv venv
+source venv/bin/activate   # or venv\Scripts\activate on Windows
+pip install -r requirements.txt
 
 
