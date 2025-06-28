@@ -4,4 +4,6 @@ history.csv
 __pycache__/
 *.pyc
 *.log
+.venv/
+venv/ 
 
