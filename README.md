@@ -18,6 +18,7 @@ cd AdvancedCalculatorProject
 python -m venv venv
 source venv/bin/activate or venv\Scripts\activate on Windows
 pip install -r requirements.txt
+```
 
 ## Demo Video 
 https://youtu.be/39HL_-leQ9U 
