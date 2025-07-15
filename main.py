@@ -2,6 +2,9 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 
+LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
+HISTORY_FILE = os.getenv("HISTORY_FILE", "history.csv")
+
 from app.history import HistoryManager
 from app.commands import load_commands
 from app.logger import log_info, log_error
